@@ -1,0 +1,1220 @@
+[
+  {
+    "optID": 14,
+    "tabName": "女装",
+    "cat_list": [
+      {
+        "optID": 2701,
+        "optType": 2,
+        "optName": "春上新",
+        "priority": 1
+      },
+      {
+        "optID": 487,
+        "optType": 2,
+        "optName": "T恤",
+        "priority": 2
+      },
+      {
+        "optID": 307,
+        "optType": 2,
+        "optName": "裙装",
+        "priority": 3
+      },
+      {
+        "optID": 52,
+        "optType": 2,
+        "optName": "裤装",
+        "priority": 4
+      },
+      {
+        "optID": 305,
+        "optType": 2,
+        "optName": "套装",
+        "priority": 5
+      },
+      {
+        "optID": 2715,
+        "optType": 2,
+        "optName": "针织毛衣",
+        "priority": 6
+      },
+      {
+        "optID": 557,
+        "optType": 2,
+        "optName": "衬衫打底衫",
+        "priority": 7
+      },
+      {
+        "optID": 1689,
+        "optType": 2,
+        "optName": "牛仔裤",
+        "priority": 8
+      },
+      {
+        "optID": 4742,
+        "optType": 2,
+        "optName": "上衣外套",
+        "priority": 9
+      },
+      {
+        "optID": 6168,
+        "optType": 2,
+        "optName": "卫衣绒衫",
+        "priority": 10
+      },
+      {
+        "optID": 502,
+        "optType": 2,
+        "optName": "大码女装",
+        "priority": 12
+      },
+      {
+        "optID": 3376,
+        "optType": 2,
+        "optName": "冬清仓",
+        "priority": 12
+      }
+    ]
+  },
+  {
+    "optID": 1281,
+    "tabName": "鞋包",
+    "cat_list": [
+      {
+        "optID": 1284,
+        "optType": 2,
+        "optName": "女鞋",
+        "priority": 1
+      },
+      {
+        "optID": 1283,
+        "optType": 2,
+        "optName": "男鞋",
+        "priority": 2
+      },
+      {
+        "optID": 1288,
+        "optType": 2,
+        "optName": "箱包皮具",
+        "priority": 3
+      },
+      {
+        "optID": 1782,
+        "optType": 2,
+        "optName": "低帮鞋",
+        "priority": 4
+      },
+      {
+        "optID": 2382,
+        "optType": 2,
+        "optName": "帆布鞋",
+        "priority": 5
+      },
+      {
+        "optID": 2733,
+        "optType": 2,
+        "optName": "腕表眼镜",
+        "priority": 6
+      },
+      {
+        "optID": 2120,
+        "optType": 2,
+        "optName": "春上新",
+        "priority": 7
+      },
+      {
+        "optID": 1783,
+        "optType": 2,
+        "optName": "皮鞋",
+        "priority": 8
+      },
+      {
+        "optID": 1290,
+        "optType": 2,
+        "optName": "双肩包",
+        "priority": 9
+      },
+      {
+        "optID": 3305,
+        "optType": 2,
+        "optName": "冬清仓",
+        "priority": 10
+      },
+      {
+        "optID": 3198,
+        "optType": 2,
+        "optName": "高帮鞋",
+        "priority": 11
+      },
+      {
+        "optID": 1297,
+        "optType": 2,
+        "optName": "服饰配件",
+        "priority": 12
+      }
+    ]
+  },
+  {
+    "optID": 4,
+    "tabName": "母婴",
+    "cat_list": [
+      {
+        "optID": 25,
+        "optType": 2,
+        "optName": "童装",
+        "priority": 1
+      },
+      {
+        "optID": 600,
+        "optType": 2,
+        "optName": "童鞋",
+        "priority": 2
+      },
+      {
+        "optID": 2693,
+        "optType": 2,
+        "optName": "春上新",
+        "priority": 3
+      },
+      {
+        "optID": 5285,
+        "optType": 2,
+        "optName": "玩具文娱",
+        "priority": 4
+      },
+      {
+        "optID": 5,
+        "optType": 2,
+        "optName": "宝宝尿裤",
+        "priority": 5
+      },
+      {
+        "optID": 34,
+        "optType": 2,
+        "optName": "孕妈专区",
+        "priority": 6
+      },
+      {
+        "optID": 5156,
+        "optType": 2,
+        "optName": "洗护喂养",
+        "priority": 7
+      },
+      {
+        "optID": 4935,
+        "optType": 2,
+        "optName": "奶粉辅食",
+        "priority": 8
+      },
+      {
+        "optID": 5148,
+        "optType": 2,
+        "optName": "童车童床",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 743,
+    "tabName": "男装",
+    "cat_list": [
+      {
+        "optID": 2575,
+        "optType": 2,
+        "optName": "春上新",
+        "priority": 1
+      },
+      {
+        "optID": 1272,
+        "optType": 2,
+        "optName": "休闲裤",
+        "priority": 2
+      },
+      {
+        "optID": 1274,
+        "optType": 2,
+        "optName": "T恤",
+        "priority": 2
+      },
+      {
+        "optID": 1220,
+        "optType": 2,
+        "optName": "夹克",
+        "priority": 3
+      },
+      {
+        "optID": 2213,
+        "optType": 2,
+        "optName": "牛仔裤",
+        "priority": 3
+      },
+      {
+        "optID": 3301,
+        "optType": 2,
+        "optName": "套装",
+        "priority": 4
+      },
+      {
+        "optID": 2590,
+        "optType": 2,
+        "optName": "毛衣",
+        "priority": 5
+      },
+      {
+        "optID": 2690,
+        "optType": 2,
+        "optName": "卫衣",
+        "priority": 6
+      },
+      {
+        "optID": 2169,
+        "optType": 2,
+        "optName": "衬衫",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 1282,
+    "tabName": "内衣",
+    "cat_list": [
+      {
+        "optID": 1293,
+        "optType": 2,
+        "optName": "文胸",
+        "priority": 1
+      },
+      {
+        "optID": 1296,
+        "optType": 2,
+        "optName": "睡衣家居服",
+        "priority": 2
+      },
+      {
+        "optID": 1757,
+        "optType": 2,
+        "optName": "塑身美体",
+        "priority": 3
+      },
+      {
+        "optID": 1291,
+        "optType": 2,
+        "optName": "男士内衣",
+        "priority": 4
+      },
+      {
+        "optID": 1292,
+        "optType": 2,
+        "optName": "女士内衣",
+        "priority": 5
+      },
+      {
+        "optID": 1295,
+        "optType": 2,
+        "optName": "袜子",
+        "priority": 6
+      },
+      {
+        "optID": 3210,
+        "optType": 2,
+        "optName": "男士内裤",
+        "priority": 7
+      },
+      {
+        "optID": 5301,
+        "optType": 2,
+        "optName": "女士内裤",
+        "priority": 8
+      },
+      {
+        "optID": 1759,
+        "optType": 2,
+        "optName": "春上新",
+        "priority": 333
+      }
+    ]
+  },
+  {
+    "optID": 1,
+    "tabName": "食品",
+    "cat_list": [
+      {
+        "optID": 2,
+        "optType": 2,
+        "optName": "休闲零食",
+        "priority": 1
+      },
+      {
+        "optID": 683,
+        "optType": 2,
+        "optName": "乳品冲饮",
+        "priority": 2
+      },
+      {
+        "optID": 118,
+        "optType": 2,
+        "optName": "茶叶",
+        "priority": 3
+      },
+      {
+        "optID": 667,
+        "optType": 2,
+        "optName": "饼干糕点",
+        "priority": 4
+      },
+      {
+        "optID": 3290,
+        "optType": 2,
+        "optName": "农货节",
+        "priority": 5
+      },
+      {
+        "optID": 124,
+        "optType": 2,
+        "optName": "粮油速食",
+        "priority": 6
+      },
+      {
+        "optID": 96,
+        "optType": 2,
+        "optName": "坚果蜜饯",
+        "priority": 7
+      },
+      {
+        "optID": 109,
+        "optType": 2,
+        "optName": "中外名酒",
+        "priority": 8
+      },
+      {
+        "optID": 95,
+        "optType": 2,
+        "optName": "保健滋补",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 15,
+    "tabName": "百货",
+    "cat_list": [
+      {
+        "optID": 330,
+        "optType": 2,
+        "optName": "纸品湿巾",
+        "priority": 1
+      },
+      {
+        "optID": 327,
+        "optType": 2,
+        "optName": "清洁工具",
+        "priority": 2
+      },
+      {
+        "optID": 329,
+        "optType": 2,
+        "optName": "日用百货",
+        "priority": 3
+      },
+      {
+        "optID": 277,
+        "optType": 2,
+        "optName": "收纳整理",
+        "priority": 4
+      },
+      {
+        "optID": 890,
+        "optType": 2,
+        "optName": "绿植园艺",
+        "priority": 5
+      },
+      {
+        "optID": 326,
+        "optType": 2,
+        "optName": "厨房烹饪",
+        "priority": 6
+      },
+      {
+        "optID": 328,
+        "optType": 2,
+        "optName": "洗护清洁",
+        "priority": 6
+      },
+      {
+        "optID": 41,
+        "optType": 2,
+        "optName": "珠宝饰品",
+        "priority": 8
+      },
+      {
+        "optID": 40,
+        "optType": 2,
+        "optName": "水杯餐具",
+        "priority": 9
+      },
+      {
+        "optID": 951,
+        "optType": 2,
+        "optName": "图书乐器",
+        "priority": 10
+      },
+      {
+        "optID": 332,
+        "optType": 2,
+        "optName": "宠物用品",
+        "priority": 11
+      },
+      {
+        "optID": 333,
+        "optType": 2,
+        "optName": "成人用品",
+        "priority": 12
+      }
+    ]
+  },
+  {
+    "optID": 16,
+    "tabName": "美妆",
+    "cat_list": [
+      {
+        "optID": 69,
+        "optType": 2,
+        "optName": "面部护理",
+        "priority": 1
+      },
+      {
+        "optID": 317,
+        "optType": 2,
+        "optName": "面膜/洁面",
+        "priority": 2
+      },
+      {
+        "optID": 71,
+        "optType": 2,
+        "optName": "彩妆香氛",
+        "priority": 3
+      },
+      {
+        "optID": 643,
+        "optType": 2,
+        "optName": "美发假发",
+        "priority": 4
+      },
+      {
+        "optID": 505,
+        "optType": 2,
+        "optName": "口红唇膏",
+        "priority": 5
+      },
+      {
+        "optID": 509,
+        "optType": 2,
+        "optName": "水乳面霜",
+        "priority": 6
+      },
+      {
+        "optID": 70,
+        "optType": 2,
+        "optName": "身体洗护",
+        "priority": 8
+      },
+      {
+        "optID": 607,
+        "optType": 2,
+        "optName": "美妆工具",
+        "priority": 9
+      },
+      {
+        "optID": 6001,
+        "optType": 2,
+        "optName": "男士护理",
+        "priority": 10
+      }
+    ]
+  },
+  {
+    "optID": 1543,
+    "tabName": "手机",
+    "cat_list": [
+      {
+        "optID": 1544,
+        "optType": 2,
+        "optName": "手机",
+        "priority": 1
+      },
+      {
+        "optID": 2165,
+        "optType": 2,
+        "optName": "壳膜支架",
+        "priority": 2
+      },
+      {
+        "optID": 1546,
+        "optType": 2,
+        "optName": "充电配件",
+        "priority": 3
+      },
+      {
+        "optID": 1545,
+        "optType": 2,
+        "optName": "充电宝",
+        "priority": 4
+      },
+      {
+        "optID": 1547,
+        "optType": 2,
+        "optName": "耳机麦克风",
+        "priority": 5
+      },
+      {
+        "optID": 1548,
+        "optType": 2,
+        "optName": "音响影音",
+        "priority": 6
+      },
+      {
+        "optID": 1549,
+        "optType": 2,
+        "optName": "智能穿戴",
+        "priority": 7
+      },
+      {
+        "optID": 1551,
+        "optType": 2,
+        "optName": "智能生活",
+        "priority": 8
+      },
+      {
+        "optID": 1550,
+        "optType": 2,
+        "optName": "相机",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 18,
+    "tabName": "电器",
+    "cat_list": [
+      {
+        "optID": 804,
+        "optType": 2,
+        "optName": "饭煲电磁炉",
+        "priority": 1
+      },
+      {
+        "optID": 447,
+        "optType": 2,
+        "optName": "厨房电器",
+        "priority": 2
+      },
+      {
+        "optID": 445,
+        "optType": 2,
+        "optName": "个护健康",
+        "priority": 3
+      },
+      {
+        "optID": 1624,
+        "optType": 2,
+        "optName": "冰箱",
+        "priority": 4
+      },
+      {
+        "optID": 1622,
+        "optType": 2,
+        "optName": "空调",
+        "priority": 5
+      },
+      {
+        "optID": 3241,
+        "optType": 2,
+        "optName": "洗衣机",
+        "priority": 6
+      },
+      {
+        "optID": 444,
+        "optType": 2,
+        "optName": "生活电器",
+        "priority": 7
+      },
+      {
+        "optID": 2467,
+        "optType": 2,
+        "optName": "电视",
+        "priority": 8
+      },
+      {
+        "optID": 522,
+        "optType": 2,
+        "optName": "烟灶热水器",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 818,
+    "tabName": "家纺",
+    "cat_list": [
+      {
+        "optID": 819,
+        "optType": 2,
+        "optName": "四件套",
+        "priority": 1
+      },
+      {
+        "optID": 858,
+        "optType": 2,
+        "optName": "凉席蚊帐",
+        "priority": 2
+      },
+      {
+        "optID": 859,
+        "optType": 2,
+        "optName": "毛巾沙发垫",
+        "priority": 3
+      },
+      {
+        "optID": 2759,
+        "optType": 2,
+        "optName": "被子被芯",
+        "priority": 4
+      },
+      {
+        "optID": 823,
+        "optType": 2,
+        "optName": "地毯窗帘",
+        "priority": 5
+      },
+      {
+        "optID": 857,
+        "optType": 2,
+        "optName": "床单被套",
+        "priority": 6
+      },
+      {
+        "optID": 5784,
+        "optType": 2,
+        "optName": "枕头枕套",
+        "priority": 7
+      },
+      {
+        "optID": 1023,
+        "optType": 2,
+        "optName": "家居饰品",
+        "priority": 8
+      },
+      {
+        "optID": 2777,
+        "optType": 2,
+        "optName": "毛毯床垫",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 2974,
+    "tabName": "家具",
+    "cat_list": [
+      {
+        "optID": 5169,
+        "optType": 2,
+        "optName": "卧室家具",
+        "priority": 1
+      },
+      {
+        "optID": 5170,
+        "optType": 2,
+        "optName": "客厅门厅",
+        "priority": 2
+      },
+      {
+        "optID": 5172,
+        "optType": 2,
+        "optName": "餐厅家具",
+        "priority": 3
+      },
+      {
+        "optID": 3053,
+        "optType": 2,
+        "optName": "儿童家具",
+        "priority": 4
+      },
+      {
+        "optID": 5171,
+        "optType": 2,
+        "optName": "书房家具",
+        "priority": 5
+      },
+      {
+        "optID": 5173,
+        "optType": 2,
+        "optName": "户外庭院",
+        "priority": 6
+      },
+      {
+        "optID": 3019,
+        "optType": 2,
+        "optName": "柜子架子",
+        "priority": 7
+      },
+      {
+        "optID": 3038,
+        "optType": 2,
+        "optName": "桌椅凳子",
+        "priority": 8
+      },
+      {
+        "optID": 3065,
+        "optType": 2,
+        "optName": "办公商用",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 2478,
+    "tabName": "电脑",
+    "cat_list": [
+      {
+        "optID": 2479,
+        "optType": 2,
+        "optName": "平板及配件",
+        "priority": 1
+      },
+      {
+        "optID": 2480,
+        "optType": 2,
+        "optName": "笔记本电脑",
+        "priority": 1
+      },
+      {
+        "optID": 2481,
+        "optType": 2,
+        "optName": "电脑整机",
+        "priority": 3
+      },
+      {
+        "optID": 3270,
+        "optType": 2,
+        "optName": "学习机",
+        "priority": 4
+      },
+      {
+        "optID": 2483,
+        "optType": 2,
+        "optName": "外设配件",
+        "priority": 5
+      },
+      {
+        "optID": 3260,
+        "optType": 2,
+        "optName": "文具",
+        "priority": 6
+      },
+      {
+        "optID": 2482,
+        "optType": 2,
+        "optName": "笔类",
+        "priority": 7
+      },
+      {
+        "optID": 2486,
+        "optType": 2,
+        "optName": "办公设备",
+        "priority": 8
+      },
+      {
+        "optID": 2487,
+        "optType": 2,
+        "optName": "网络设备",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 590,
+    "tabName": "充值",
+    "cat_list": [
+      {
+        "optID": 591,
+        "optType": 2,
+        "optName": "低价话费",
+        "priority": 1
+      },
+      {
+        "optID": 1838,
+        "optType": 2,
+        "optName": "游戏QQ",
+        "priority": 3
+      },
+      {
+        "optID": 1837,
+        "optType": 2,
+        "optName": "视频会员",
+        "priority": 4
+      },
+      {
+        "optID": 1242,
+        "optType": 2,
+        "optName": "定制服务",
+        "priority": 5
+      },
+      {
+        "optID": 592,
+        "optType": 2,
+        "optName": "旅游票务",
+        "priority": 6
+      },
+      {
+        "optID": 3680,
+        "optType": 2,
+        "optName": "石化石油",
+        "priority": 34
+      }
+    ]
+  },
+  {
+    "optID": 13,
+    "tabName": "水果",
+    "cat_list": [
+      {
+        "optID": 140,
+        "optType": 2,
+        "optName": "新鲜水果",
+        "priority": 1
+      },
+      {
+        "optID": 5121,
+        "optType": 2,
+        "optName": "柑橘橙柚",
+        "priority": 2
+      },
+      {
+        "optID": 146,
+        "optType": 2,
+        "optName": "海鲜水产",
+        "priority": 3
+      },
+      {
+        "optID": 2446,
+        "optType": 2,
+        "optName": "瓜果桃梨",
+        "priority": 4
+      },
+      {
+        "optID": 151,
+        "optType": 2,
+        "optName": "蔬菜及制品",
+        "priority": 5
+      },
+      {
+        "optID": 1041,
+        "optType": 2,
+        "optName": "进口水果",
+        "priority": 6
+      },
+      {
+        "optID": 978,
+        "optType": 2,
+        "optName": "品质肉禽",
+        "priority": 7
+      },
+      {
+        "optID": 149,
+        "optType": 2,
+        "optName": "蛋及蛋制品",
+        "priority": 8
+      },
+      {
+        "optID": 2456,
+        "optType": 2,
+        "optName": "熟食凉菜",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 1451,
+    "tabName": "运动",
+    "cat_list": [
+      {
+        "optID": 1452,
+        "optType": 2,
+        "optName": "运动鞋",
+        "priority": 1
+      },
+      {
+        "optID": 1453,
+        "optType": 2,
+        "optName": "运动服装",
+        "priority": 2
+      },
+      {
+        "optID": 1455,
+        "optType": 2,
+        "optName": "健身休闲",
+        "priority": 3
+      },
+      {
+        "optID": 1454,
+        "optType": 2,
+        "optName": "户外鞋服",
+        "priority": 4
+      },
+      {
+        "optID": 1456,
+        "optType": 2,
+        "optName": "户外装备",
+        "priority": 5
+      },
+      {
+        "optID": 1457,
+        "optType": 2,
+        "optName": "球类运动",
+        "priority": 6
+      },
+      {
+        "optID": 2171,
+        "optType": 2,
+        "optName": "骑行装备",
+        "priority": 7
+      },
+      {
+        "optID": 2172,
+        "optType": 2,
+        "optName": "垂钓装备",
+        "priority": 8
+      },
+      {
+        "optID": 2833,
+        "optType": 2,
+        "optName": "运动配件",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 1917,
+    "tabName": "家装",
+    "cat_list": [
+      {
+        "optID": 1942,
+        "optType": 2,
+        "optName": "灯饰照明",
+        "priority": 1
+      },
+      {
+        "optID": 1943,
+        "optType": 2,
+        "optName": "五金工具",
+        "priority": 2
+      },
+      {
+        "optID": 1947,
+        "optType": 2,
+        "optName": "卫浴用品",
+        "priority": 3
+      },
+      {
+        "optID": 2904,
+        "optType": 2,
+        "optName": "电子电工",
+        "priority": 4
+      },
+      {
+        "optID": 2918,
+        "optType": 2,
+        "optName": "厨房五金",
+        "priority": 5
+      },
+      {
+        "optID": 2927,
+        "optType": 2,
+        "optName": "监控安防",
+        "priority": 6
+      },
+      {
+        "optID": 2933,
+        "optType": 2,
+        "optName": "墙地面",
+        "priority": 7
+      },
+      {
+        "optID": 2944,
+        "optType": 2,
+        "optName": "家用五金",
+        "priority": 8
+      },
+      {
+        "optID": 2283,
+        "optType": 2,
+        "optName": "全屋定制",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 2048,
+    "tabName": "汽车",
+    "cat_list": [
+      {
+        "optID": 2050,
+        "optType": 2,
+        "optName": "车用电子",
+        "priority": 1
+      },
+      {
+        "optID": 2409,
+        "optType": 2,
+        "optName": "座垫枕靠",
+        "priority": 2
+      },
+      {
+        "optID": 2410,
+        "optType": 2,
+        "optName": "脚垫尾箱垫",
+        "priority": 3
+      },
+      {
+        "optID": 2049,
+        "optType": 2,
+        "optName": "汽车内饰",
+        "priority": 4
+      },
+      {
+        "optID": 2051,
+        "optType": 2,
+        "optName": "汽车零配件",
+        "priority": 5
+      },
+      {
+        "optID": 2053,
+        "optType": 2,
+        "optName": "清洗美容",
+        "priority": 6
+      },
+      {
+        "optID": 2052,
+        "optType": 2,
+        "optName": "外饰防护",
+        "priority": 7
+      },
+      {
+        "optID": 6242,
+        "optType": 2,
+        "optName": "安全自驾",
+        "priority": 8
+      },
+      {
+        "optID": 2054,
+        "optType": 2,
+        "optName": "汽车/摩托",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 12,
+    "tabName": "海淘",
+    "cat_list": [
+      {
+        "optID": 224,
+        "optType": 2,
+        "optName": "进口美妆",
+        "priority": 1
+      },
+      {
+        "optID": 219,
+        "optType": 2,
+        "optName": "进口食品",
+        "priority": 2
+      },
+      {
+        "optID": 1112,
+        "optType": 2,
+        "optName": "进口酒水",
+        "priority": 3
+      },
+      {
+        "optID": 221,
+        "optType": 2,
+        "optName": "营养保健",
+        "priority": 4
+      },
+      {
+        "optID": 223,
+        "optType": 2,
+        "optName": "进口家居",
+        "priority": 5
+      },
+      {
+        "optID": 220,
+        "optType": 2,
+        "optName": "进口母婴",
+        "priority": 6
+      },
+      {
+        "optID": 299,
+        "optType": 2,
+        "optName": "进口个护",
+        "priority": 7
+      },
+      {
+        "optID": 1052,
+        "optType": 2,
+        "optName": "箱包配饰",
+        "priority": 8
+      },
+      {
+        "optID": 225,
+        "optType": 2,
+        "optName": "服饰鞋靴",
+        "priority": 9
+      }
+    ]
+  },
+  {
+    "optID": 3279,
+    "tabName": "健康",
+    "cat_list": [
+      {
+        "optID": 3567,
+        "optType": 2,
+        "optName": "家庭常备",
+        "priority": 1
+      },
+      {
+        "optID": 3576,
+        "optType": 2,
+        "optName": "中西药品",
+        "priority": 2
+      },
+      {
+        "optID": 3280,
+        "optType": 2,
+        "optName": "医药器械",
+        "priority": 3
+      },
+      {
+        "optID": 3284,
+        "optType": 2,
+        "optName": "隐形眼镜",
+        "priority": 4
+      },
+      {
+        "optID": 3583,
+        "optType": 2,
+        "optName": "时令应季",
+        "priority": 5
+      },
+      {
+        "optID": 5342,
+        "optType": 2,
+        "optName": "保健滋补",
+        "priority": 6
+      }
+    ]
+  }
+]
