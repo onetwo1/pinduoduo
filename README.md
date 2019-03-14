@@ -86,7 +86,7 @@
     
     
     """
-        randomproxy.py 是自定义的 scrapy 中间件, 实现代理更换\UA 更换\出错代理更换并重爬等功能, 
+        randomproxy.py 是自定义的 scrapy 中间件, 实现代理更换 | user-agent 更换 | 请求出错时更换代理并重爬等功能, 
         可以直接将这个中间件应用到其它 scrapy 爬虫项目中
     """
     
