@@ -22,29 +22,13 @@
 
     只获取 anti_content 结果: 
 
-        node merge.js `referer_page_url`
-
-    其中 referer_page_url 是需要的来源 url , python 生成示例:
-```
-```python 
-    def getRandomString(e):
-        e = 32 if not e else e
-        t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
-        r = ""
-        for i in range(e):
-            _ = math.floor(random.random()*len(t))
-            if _ < len(t):
-                r+= t[_]
-        return r
-
-    def getTimeStamp():
-        return int(round(time.time() * 1000))
-
-    referer_page_id = f"10031_{str(getTimeStamp())}_{getRandomString(10)}"
-    referer_page_url = f"""http://yangkeduo.com/catgoods.html?opt_id=2715&opt_type=2&opt_name=%e8%a3%99%e8%a3%85&opt_g=1&refer_page_name=search&refer_page_id={referer_page_id}&refer_page_sn=10031"""
+        node merge.js http://yangkeduo.com/catgoods.html
 ```
 
-## 全站抓取思路: 通过分类进行抓取(当然也可关键字搜索抓取)
+
+
+## 全站抓取
+
 
 #### 步骤一: 获取一级二级分类,并处理
 
