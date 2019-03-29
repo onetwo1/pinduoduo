@@ -2208,7 +2208,7 @@ var main_s = (function(){
 })
 // referer_page_url 
 // var referer_page_url = process.argv.splice(2)[0]
-var referer_page_url = " http://yangkeduo.com/catgoods.html";
+var referer_page_url = "https://mobile.yangkeduo.com/search_result.html";
 
 var navigator = {
     appCodeName: "Mozilla",
