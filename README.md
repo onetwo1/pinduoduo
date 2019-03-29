@@ -22,7 +22,7 @@
 
     只获取 anti_content 结果: 
 
-        node merge.js http://yangkeduo.com/catgoods.html
+        node merge.js
 ```
 
 
